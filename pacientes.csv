@@ -1,1 +1,6 @@
-id, nome, idade, historico
+nome, idade, genero
+Ana Costa, 30, Feminino
+Carlos Silva, 45, Masculino
+Fernanda Oliveira, 28, Feminino
+Juliana Santos, 35, Feminino
+Roberto Almeida, 50, Masculino
