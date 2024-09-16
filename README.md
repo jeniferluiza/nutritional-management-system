@@ -13,9 +13,4 @@ O sistema permite o registro e a consulta de informações sobre pacientes e sua
 - `consultas.csv`: Armazena informações sobre consultas.
 - `pacientes.csv`: Armazena informações sobre pacientes.
 
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/jeniferluiza/nutritional-management-system.git
 
